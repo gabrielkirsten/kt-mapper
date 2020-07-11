@@ -1,4 +1,4 @@
-package com.movilepay.ktmapper.mappings
+package com.github.movilepay.ktmapper.mappings
 
 import kotlin.reflect.KProperty
 

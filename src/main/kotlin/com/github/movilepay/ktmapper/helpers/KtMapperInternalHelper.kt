@@ -1,6 +1,6 @@
-package com.movilepay.ktmapper.helpers
+package com.github.movilepay.ktmapper.helpers
 
-import com.movilepay.ktmapper.reflection.Reflection
+import com.github.movilepay.ktmapper.reflection.Reflection
 import kotlin.reflect.KParameter
 import kotlin.reflect.KProperty
 
