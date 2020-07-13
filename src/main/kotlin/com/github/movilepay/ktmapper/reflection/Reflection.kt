@@ -1,4 +1,4 @@
-package com.movilepay.ktmapper.reflection
+package com.github.movilepay.ktmapper.reflection
 
 import java.lang.reflect.Member
 import kotlin.reflect.KClass

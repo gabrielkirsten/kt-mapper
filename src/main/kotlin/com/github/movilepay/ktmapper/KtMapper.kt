@@ -1,8 +1,8 @@
-package com.movilepay.ktmapper
+package com.github.movilepay.ktmapper
 
-import com.movilepay.ktmapper.helpers.KtMapperInternalHelper
-import com.movilepay.ktmapper.mappings.MappingConfigurationBase
-import com.movilepay.ktmapper.reflection.Reflection
+import com.github.movilepay.ktmapper.helpers.KtMapperInternalHelper
+import com.github.movilepay.ktmapper.mappings.MappingConfigurationBase
+import com.github.movilepay.ktmapper.reflection.Reflection
 import kotlin.reflect.KFunction
 import kotlin.reflect.KParameter
 import kotlin.reflect.KProperty
